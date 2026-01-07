@@ -1,0 +1,87 @@
+/* =========== ABOUT ME SECTION =========== */
+/* Sidebar Title */
+.sidebar-title{
+    text-align: center;
+    font-weight: bold;
+}
+/* About me image */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 200px;
+    height:auto;
+
+}
+/* Sidebar Name */
+.sidebar-my-name{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+    border: 3px solid lightblue;
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+      display: inline-block;
+      color: black;
+      padding: 10px;
+      margin: 10px;
+      background-color: lightpink;
+      border: 3px solid black;
+
+}
+.sidebar-social-icon:hover{
+      background-color: lightblue;
+}
+
+/* =========== CTS SECTION =========== */
+
+/* CTS Image Logo */
+.sidebar-cts-logo{
+    width: 100%;
+
+}
+
+/* CTS LINK */
+
+.sidebar-cts-link {
+    display: block;            
+    background-color: lightpink;     
+    color: black;              
+    text-decoration: none;     
+    padding: 20px;             
+    text-align: center;        
+    border: 2px solid black;   
+}
+.sidebar-cts-link:hover {
+    background-color: lightblue;     
+}
+
+/* =========== TAGS SECTION =========== */
+
+.sidebar-tag {
+    display: inline-block;
+    padding: 12px;
+    margin: 3px;
+    color:black;
+    background-color: lightpink;
+    border: 2px solid black;
+
+
+}
+
+.sidebar-tag:hover {
+    color:black;
+    background-color: lightblue;
+    border: 2px solid black;
+
+}
+
+
